@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a passionate Website Developer currently transitioning into the world of Artificial Intelligence. 🚀<br>I’m excited to combine my development skills with cutting-edge AI models to build smarter, more dynamic websites. 🤖💻<br><br>As I dive deeper into AI, I’m eager to explore how these models can be integrated seamlessly into web applications, creating innovative and user-centric solutions. 🌐✨<br><br>Feel free to check out my projects, and let's connect if you’re interested in collaborating on AI-powered web experiences!
+Hi there! I'm a passionate Website Developer currently transitioning into the world of Artificial Intelligence. 🚀<br>I’m excited to combine my development skills with cutting-edge AI models to build smarter, more dynamic websites. 🤖💻<br><br>As I dive deeper into AI, I’m eager to explore how these models can be integrated seamlessly into web applications, creating innovative and user-centric solutions. 🌐✨<br><br>Feel free to check out my projects, and let's connect if you’re interested in collaborating on AI-powered web experiences! 🤝<br><br>
 
 
 ## 🌐 Socials:
@@ -13,9 +13,6 @@ Hi there! I'm a passionate Website Developer currently transitioning into the wo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanigaivelGanapathi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThanigaivelGanapathi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ThanigaivelGanapathi&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=ThanigaivelGanapathi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
